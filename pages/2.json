@@ -2,7 +2,7 @@
     "1": {
         "name": "Battle.net",
         "author": "Blizzard",
-        "link": "https://www.battle.net/download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP&version=Live&id=undefined"
+        "link": "https://www.battle.net/download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP&version=Live&id=undefined",
     "2": {
         "name": "ShareX",
         "author": "Jaex",
