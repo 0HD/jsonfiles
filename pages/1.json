@@ -1,0 +1,12 @@
+{
+    "1": {
+        "name": "Discord",
+        "author": "Discord Inc.",
+        "link": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86"
+    },
+    "2": {
+        "name": "Steam",
+        "author": "Valve",
+        "link": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe"
+    }
+}
